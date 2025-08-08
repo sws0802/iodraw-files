@@ -22,6 +22,9 @@
             <mxPoint x="440" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="yRzF8Lss8WsqSD92REN1-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="yRzF8Lss8WsqSD92REN1-12" target="yRzF8Lss8WsqSD92REN1-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="yRzF8Lss8WsqSD92REN1-12" value="bind" style="rounded=1;whiteSpace=wrap;html=1;glass=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="520" y="190" width="80" height="30" as="geometry" />
         </mxCell>
@@ -36,6 +39,9 @@
             <mxPoint x="390" y="250" as="sourcePoint" />
             <mxPoint x="440" y="200" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="yRzF8Lss8WsqSD92REN1-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.501;entryY=0.25;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="yRzF8Lss8WsqSD92REN1-13" target="yRzF8Lss8WsqSD92REN1-14">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
