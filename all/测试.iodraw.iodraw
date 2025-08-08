@@ -10,7 +10,7 @@
         <mxCell id="yRzF8Lss8WsqSD92REN1-3" value="服务端" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="540" y="120" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="yRzF8Lss8WsqSD92REN1-4" value="客户端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="yRzF8Lss8WsqSD92REN1-4" value="客户端" style="rounded=1;whiteSpace=wrap;html=1;glass=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="120" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
