@@ -49,9 +49,6 @@
             <mxPoint x="460" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yRzF8Lss8WsqSD92REN1-20" value="Label" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="yRzF8Lss8WsqSD92REN1-19">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
