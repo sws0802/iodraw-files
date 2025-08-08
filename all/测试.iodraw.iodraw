@@ -16,8 +16,11 @@
         <mxCell id="yRzF8Lss8WsqSD92REN1-7" value="connect" style="rounded=1;whiteSpace=wrap;html=1;glass=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="240" y="340" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="yRzF8Lss8WsqSD92REN1-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yRzF8Lss8WsqSD92REN1-7" target="yRzF8Lss8WsqSD92REN1-7">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="yRzF8Lss8WsqSD92REN1-11" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="yRzF8Lss8WsqSD92REN1-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="250" as="sourcePoint" />
+            <mxPoint x="440" y="200" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
