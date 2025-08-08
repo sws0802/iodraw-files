@@ -55,8 +55,8 @@
         <mxCell id="yRzF8Lss8WsqSD92REN1-24" value="绑定设备端口和IP" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="600" y="190" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="yRzF8Lss8WsqSD92REN1-25" value="绑定设备端口和IP" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="610" y="200" width="100" height="30" as="geometry" />
+        <mxCell id="yRzF8Lss8WsqSD92REN1-25" value="监听端口" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="600" y="270" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
