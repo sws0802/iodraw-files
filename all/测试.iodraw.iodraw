@@ -52,6 +52,9 @@
         <mxCell id="yRzF8Lss8WsqSD92REN1-22" value="连接请求（TCP三次握手）" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="yRzF8Lss8WsqSD92REN1-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="yRzF8Lss8WsqSD92REN1-23" value="accpet" style="rounded=1;whiteSpace=wrap;html=1;glass=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="370" y="310.0000000000001" width="80" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
