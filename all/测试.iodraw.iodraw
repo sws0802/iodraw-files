@@ -58,11 +58,11 @@
         <mxCell id="yRzF8Lss8WsqSD92REN1-25" value="监听端口" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="600" y="270" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="yRzF8Lss8WsqSD92REN1-26" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="250" width="20" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="yRzF8Lss8WsqSD92REN1-29" value="监听端口" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="yRzF8Lss8WsqSD92REN1-29" value="web -- 80" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="690" y="275" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yRzF8Lss8WsqSD92REN1-30" value="监听端口" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="630" y="300" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
