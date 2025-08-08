@@ -52,7 +52,7 @@
         <mxCell id="yRzF8Lss8WsqSD92REN1-22" value="连接请求（TCP三次握手）" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="yRzF8Lss8WsqSD92REN1-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yRzF8Lss8WsqSD92REN1-24" value="Text" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="yRzF8Lss8WsqSD92REN1-24" value="绑定设备端口和IP" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="600" y="190" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
