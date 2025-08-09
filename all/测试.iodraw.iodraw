@@ -113,6 +113,9 @@
         <mxCell id="yRzF8Lss8WsqSD92REN1-45" value="close" style="rounded=1;whiteSpace=wrap;html=1;glass=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="190" y="530" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="yRzF8Lss8WsqSD92REN1-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.538;entryY=0.044;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="yRzF8Lss8WsqSD92REN1-7" target="yRzF8Lss8WsqSD92REN1-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
