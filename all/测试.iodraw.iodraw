@@ -116,6 +116,11 @@
         <mxCell id="yRzF8Lss8WsqSD92REN1-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.538;entryY=0.044;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="yRzF8Lss8WsqSD92REN1-7" target="yRzF8Lss8WsqSD92REN1-43">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="yRzF8Lss8WsqSD92REN1-47" value="连接建立" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="yRzF8Lss8WsqSD92REN1-46">
+          <mxGeometry x="-0.0225" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
