@@ -81,8 +81,8 @@
         <mxCell id="yRzF8Lss8WsqSD92REN1-31" value="HTTP -- 43" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="700" y="240" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="yRzF8Lss8WsqSD92REN1-35" value="监听端口" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="610" y="280" width="60" height="30" as="geometry" />
+        <mxCell id="yRzF8Lss8WsqSD92REN1-35" value="传入与服务端相同IP和端口号" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="355" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
